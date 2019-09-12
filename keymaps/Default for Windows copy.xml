@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
