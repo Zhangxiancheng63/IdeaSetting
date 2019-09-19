@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
       <item value="Tracking Order DTO" />
       <item value="Tenant" />
       <item value="Docket" />
@@ -50,12 +51,11 @@
       <item value="Strip" />
       <item value="common" />
       <item value="sampler" />
-      <item value="Circuit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
