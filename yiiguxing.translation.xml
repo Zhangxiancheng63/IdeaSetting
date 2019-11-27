@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filted" />
       <item value="affiliation Id" />
       <item value="department" />
       <item value="delayed" />
@@ -50,12 +51,11 @@
       <item value="eligible" />
       <item value="Proof" />
       <item value="blind" />
-      <item value="bilnd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
