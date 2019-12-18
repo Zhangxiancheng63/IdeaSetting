@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credential" />
+      <item value="delayed" />
+      <item value="Malformed" />
+      <item value="filted" />
+      <item value="affiliation Id" />
+      <item value="department" />
+      <item value="Charge" />
+      <item value="minutes" />
       <item value="Subordinate" />
       <item value="restore" />
       <item value="subtract" />
@@ -43,19 +51,11 @@
       <item value="sing Activity Files" />
       <item value="materials Files" />
       <item value="eligible" />
-      <item value="Proof" />
-      <item value="blind" />
-      <item value="bilnd" />
-      <item value="decorate" />
-      <item value="Emitter" />
-      <item value="candidate" />
-      <item value="_s" />
-      <item value="Strip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />

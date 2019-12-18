@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="" password="">
+      <option name="address" value="http://192.168.16.160:5000" />
+      <option name="name" value="测试环境私有仓库" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>
