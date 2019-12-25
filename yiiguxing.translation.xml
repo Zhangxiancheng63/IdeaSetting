@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
       <item value="subtract" />
       <item value="credential" />
       <item value="delayed" />
@@ -50,12 +51,11 @@
       <item value="sign Activity Files" />
       <item value="sing Activity Files" />
       <item value="materials Files" />
-      <item value="eligible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
