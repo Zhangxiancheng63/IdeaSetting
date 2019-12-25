@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
       <item value="credential" />
       <item value="delayed" />
       <item value="Malformed" />
@@ -11,7 +12,6 @@
       <item value="minutes" />
       <item value="Subordinate" />
       <item value="restore" />
-      <item value="subtract" />
       <item value="Tracking Order DTO" />
       <item value="Tenant" />
       <item value="Docket" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
