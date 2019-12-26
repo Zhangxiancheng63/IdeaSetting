@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean properties of type Resource and Resource array can be populated * from Strings when running in an ApplicationContext, using the particular * context's resource loading strategy" />
+      <item value="usable outside" />
+      <item value="standalone" />
+      <item value="capacity" />
       <item value="assuming" />
       <item value="existence" />
       <item value="retrieve" />
@@ -47,15 +51,11 @@
       <item value="estimate Size" />
       <item value="Spliterator" />
       <item value="ordinal" />
-      <item value="panorama" />
-      <item value="backstage" />
-      <item value="eternal Bind" />
-      <item value="sign Activity Files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
