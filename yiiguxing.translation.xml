@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strip prefix from path to analyze, to not treat it as part of the // first path element. This is necessary to correctly parse paths like // &quot;file:core/../core/io/Resource.class&quot;, where the &quot;..&quot; should just // strip the first &quot;core&quot; directory while keeping the &quot;file:&quot; prefix." />
+      <item value="Shortcut if there is no work to do" />
       <item value="Cannot access system ClassLoader - oh well, maybe the caller can live with null" />
       <item value="indicates" />
       <item value="Bean properties of type Resource and Resource array can be populated * from Strings when running in an ApplicationContext, using the particular * context's resource loading strategy" />
@@ -49,13 +51,11 @@
       <item value="IMMUTABLE" />
       <item value="accumulator" />
       <item value="Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
-      <item value="0 x 00004000" />
-      <item value="estimate Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
