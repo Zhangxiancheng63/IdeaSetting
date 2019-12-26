@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assuming" />
       <item value="existence" />
       <item value="retrieve" />
       <item value="divide" />
@@ -50,12 +51,11 @@
       <item value="backstage" />
       <item value="eternal Bind" />
       <item value="sign Activity Files" />
-      <item value="sing Activity Files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
