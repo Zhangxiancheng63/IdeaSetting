@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="tokenize" />
+      <item value="aware" />
       <item value="concatenate" />
       <item value="delimited List To String Array" />
       <item value="Strip prefix from path to analyze, to not treat it as part of the // first path element. This is necessary to correctly parse paths like // &quot;file:core/../core/io/Resource.class&quot;, where the &quot;..&quot; should just // strip the first &quot;core&quot; directory while keeping the &quot;file:&quot; prefix." />
@@ -50,12 +51,11 @@
       <item value="Census" />
       <item value="multiply" />
       <item value="backStage" />
-      <item value="sequential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
