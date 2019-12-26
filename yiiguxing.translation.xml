@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capitalize" />
+      <item value="uncapitalize" />
+      <item value="individual Named Beans" />
+      <item value="processed" />
+      <item value="directly present on the element, with no merging needed" />
       <item value="Phase" />
       <item value="Closure" />
       <item value="tokenize" />
@@ -46,16 +51,11 @@
       <item value="is Satisfied" />
       <item value="fractional" />
       <item value="assign Amount" />
-      <item value="Coupon" />
-      <item value="stock" />
-      <item value="judge Is Speed Up And Get Add Credit" />
-      <item value="eternal" />
-      <item value="Census" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
