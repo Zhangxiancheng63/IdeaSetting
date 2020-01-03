@@ -150,6 +150,10 @@
           <option name="url" value="git@github.com:Zhangxiancheng63/spring-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Zhangxiancheng63/jdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\projects" />
