@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Census" />
+      <item value="Descendant" />
       <item value="Firm" />
       <item value="Equinox" />
       <item value="Path is exhausted, only match if rest of pattern is * or **'s" />
@@ -49,13 +51,11 @@
       <item value="Bean properties of type Resource and Resource array can be populated * from Strings when running in an ApplicationContext, using the particular * context's resource loading strategy" />
       <item value="usable outside" />
       <item value="standalone" />
-      <item value="capacity" />
-      <item value="assuming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
