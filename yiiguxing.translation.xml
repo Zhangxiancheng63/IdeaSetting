@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deal With" />
       <item value="invitor" />
       <item value="Census" />
       <item value="Descendant" />
@@ -50,12 +51,11 @@
       <item value="Cannot access system ClassLoader - oh well, maybe the caller can live with null" />
       <item value="indicates" />
       <item value="Bean properties of type Resource and Resource array can be populated * from Strings when running in an ApplicationContext, using the particular * context's resource loading strategy" />
-      <item value="usable outside" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
