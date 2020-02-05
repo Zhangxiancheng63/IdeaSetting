@@ -1,13 +1,12 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>JSON.parseObject (com.alibaba.fastjson)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseObject").withParameters("java.lang.String", "com.alibaba.fastjson.TypeReference", "com.alibaba.fastjson.parser.Feature...").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
+    </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>MatchPattern.pattern (net.sf.oval.constraint)</display-name>
       <place><![CDATA[psiMethod().withName("pattern").withParameters().definedInClass("net.sf.oval.constraint.MatchPattern")]]></place>
-    </injection>
-    <injection language="SQL" injector-id="xml">
-      <display-name>iBatis3: sql|select|insert|update|delete</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().oneOf("sql", "select", "insert", "update", "delete")).withNamespace(string().oneOf("http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd", "http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
-      <apply-to-subtags />
     </injection>
   </component>
 </application>
