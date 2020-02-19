@@ -1,0 +1,42 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Debugger.ForceEarlyReturn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="TailMyBatisLog" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="ViewSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
