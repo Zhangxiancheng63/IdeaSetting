@@ -40,7 +40,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitee.com" />
-          <option name="userName" value="18768014029" />
+          <option name="userName" value="zhangxiancheng" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitee.com/yejiajie/ms-quotation.git" />
@@ -120,6 +120,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://183.131.202.93:9080/others/rms-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/zhangxiancheng/getWeixinUrl" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
