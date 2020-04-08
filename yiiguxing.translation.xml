@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="requestVolumeThreshold" />
       <item value="Single Candidate" />
       <item value="Use names and ensure unique to protect against duplicates" />
       <item value="Store" />
@@ -50,11 +51,10 @@
       <item value="filted" />
       <item value="affiliation Id" />
       <item value="department" />
-      <item value="Charge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
+        <entry key="CHINESE" value="214" />
         <entry key="ENGLISH" value="214" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
