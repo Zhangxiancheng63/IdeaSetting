@@ -1,8 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="JSON" injector-id="java">
-      <display-name>Gson.fromJson (com.google.gson)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("fromJson").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.google.gson.Gson"))]]></place>
+      <display-name>JSON.parseObject (com.alibaba.fastjson)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseObject").withParameters("java.lang.String", "com.alibaba.fastjson.TypeReference", "com.alibaba.fastjson.parser.Feature...").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
     </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>MatchPattern.pattern (net.sf.oval.constraint)</display-name>

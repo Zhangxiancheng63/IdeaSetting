@@ -1,7 +1,5 @@
 <application>
   <component name="TipsStore">
-    <option name="globalFirstStartUp" value="false" />
-    <entry projectName="$USER_HOME$/projects/vncurlgetter" firstStartUp="false" />
-    <entry projectName="E:/projects/ods-root" firstStartUp="false" />
+    <option name="firstStartUp" value="false" />
   </component>
 </application>

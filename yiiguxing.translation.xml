@@ -1,21 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="deal With" />
-      <item value="invitor" />
-      <item value="Census" />
-      <item value="Descendant" />
-      <item value="Firm" />
-      <item value="Equinox" />
-      <item value="Path is exhausted, only match if rest of pattern is * or **'s" />
-      <item value="exhausted" />
-      <item value="Segment" />
-      <item value="Potential" />
-      <item value="subtract" />
-      <item value="the part of the location that denotes the root directory" />
-      <item value="remainder of the location as pattern" />
-      <item value="Clover" />
-      <item value="and on Tomcat only after the &quot;*/&quot; separator for its &quot;war:&quot; protocol." />
       <item value="Single Candidate" />
       <item value="Use names and ensure unique to protect against duplicates" />
       <item value="Store" />
@@ -51,18 +36,32 @@
       <item value="Cannot access system ClassLoader - oh well, maybe the caller can live with null" />
       <item value="indicates" />
       <item value="Bean properties of type Resource and Resource array can be populated * from Strings when running in an ApplicationContext, using the particular * context's resource loading strategy" />
+      <item value="usable outside" />
+      <item value="standalone" />
+      <item value="capacity" />
+      <item value="assuming" />
+      <item value="existence" />
+      <item value="retrieve" />
+      <item value="divide" />
+      <item value="subtract" />
+      <item value="credential" />
+      <item value="delayed" />
+      <item value="Malformed" />
+      <item value="filted" />
+      <item value="affiliation Id" />
+      <item value="department" />
+      <item value="Charge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
