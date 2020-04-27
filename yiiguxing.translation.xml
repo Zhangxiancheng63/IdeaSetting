@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used by condition wait methods as well as acquire" />
+      <item value="conveyed" />
       <item value="Acquires in exclusive uninterruptible mode for thread already in * queue. Used by condition wait methods as well as acquire" />
       <item value="A releaseShared should be propagated to other * nodes. This is set (for head node only) in * doReleaseShared to ensure propagation * continues, even if other operations have * since intervened" />
       <item value="but simplifies mechanics" />
@@ -49,13 +51,11 @@
       <item value="processed" />
       <item value="directly present on the element, with no merging needed" />
       <item value="Phase" />
-      <item value="Closure" />
-      <item value="tokenize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
