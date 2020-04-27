@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A releaseShared should be propagated to other * nodes. This is set (for head node only) in * doReleaseShared to ensure propagation * continues, even if other operations have * since intervened" />
+      <item value="but simplifies mechanics" />
+      <item value="mechanics" />
+      <item value="It will not be used as a sync queue node * until transferred" />
+      <item value="successor" />
+      <item value="The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block" />
       <item value="Craig, Landin, and * Hagersten" />
       <item value="whatsoever" />
       <item value="operating * off" />
@@ -45,17 +51,11 @@
       <item value="Closure" />
       <item value="tokenize" />
       <item value="aware" />
-      <item value="concatenate" />
-      <item value="delimited List To String Array" />
-      <item value="Strip prefix from path to analyze, to not treat it as part of the // first path element. This is necessary to correctly parse paths like // &quot;file:core/../core/io/Resource.class&quot;, where the &quot;..&quot; should just // strip the first &quot;core&quot; directory while keeping the &quot;file:&quot; prefix." />
-      <item value="Shortcut if there is no work to do" />
-      <item value="Cannot access system ClassLoader - oh well, maybe the caller can live with null" />
-      <item value="indicates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
