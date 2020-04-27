@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whatsoever" />
+      <item value="operating * off" />
+      <item value="Unlike the otherwise equivalent * {@code newFixedThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads." />
+      <item value="sequentially" />
+      <item value="subsequent tasks" />
+      <item value="prior" />
+      <item value="unbounded queue" />
       <item value="to reduce footprint" />
       <item value="Sets this Future to the result of its computation * unless it has been cancelled" />
       <item value="closure-like" />
@@ -44,18 +51,11 @@
       <item value="Cannot access system ClassLoader - oh well, maybe the caller can live with null" />
       <item value="indicates" />
       <item value="Bean properties of type Resource and Resource array can be populated * from Strings when running in an ApplicationContext, using the particular * context's resource loading strategy" />
-      <item value="usable outside" />
-      <item value="standalone" />
-      <item value="capacity" />
-      <item value="assuming" />
-      <item value="existence" />
-      <item value="retrieve" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
