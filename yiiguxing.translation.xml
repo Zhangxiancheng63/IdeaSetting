@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Predecessor was cancelled. Skip over predecessors and * indicate retry" />
+      <item value="acquire" />
       <item value="Used by condition wait methods as well as acquire" />
       <item value="conveyed" />
       <item value="Acquires in exclusive uninterruptible mode for thread already in * queue. Used by condition wait methods as well as acquire" />
@@ -49,13 +51,11 @@
       <item value="uncapitalize" />
       <item value="individual Named Beans" />
       <item value="processed" />
-      <item value="directly present on the element, with no merging needed" />
-      <item value="Phase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
