@@ -80,4 +80,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="bc" value="BeanUtils.copyProperties($var1$, $var2$);" description="快速拷贝bean属性值" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
