@@ -87,7 +87,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="dto" value="import lombok.Data;&#10;import lombok.Builder;&#10;&#10;/**&#10; * @package: $package$&#10; * @description: $description$&#10; * @author: $user$&#10; * @date: $date$&#10; **/&#10;@Data&#10;@Builder" description="通用dto注释" toReformat="false" toShortenFQNames="true">
+  <template name="dto" value="import lombok.Builder;&#10;import lombok.Data;&#10;&#10;/**&#10; * @package: $package$&#10; * @description: $description$&#10; * @author: $user$&#10; * @date: $date$&#10; **/&#10;@Data&#10;@Builder" description="通用dto注释" toReformat="false" toShortenFQNames="true">
     <variable name="package" expression="currentPackage()" defaultValue="" alwaysStopAt="false" />
     <variable name="description" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="user" expression="lowercaseAndDash(&quot;zhangxiancheng&quot;)" defaultValue="" alwaysStopAt="false" />
