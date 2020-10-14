@@ -254,6 +254,10 @@
           <option name="url" value="http://36.133.90.120:9080/yangyc/code-generator" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-wb" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\projects" />
