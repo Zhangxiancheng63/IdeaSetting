@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="d" />
       <item value="JCQLHFGL" />
       <item value="push For Birthday" />
       <item value="third" />
@@ -50,7 +51,6 @@
       <item value="implements" />
       <item value="requestVolumeThreshold" />
       <item value="Single Candidate" />
-      <item value="Use names and ensure unique to protect against duplicates" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608875154916" />
+    <option name="lastTrimTime" value="1609402892062" />
   </component>
 </application>
