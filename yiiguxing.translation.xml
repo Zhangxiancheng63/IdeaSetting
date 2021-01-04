@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicator" />
       <item value="d" />
       <item value="JCQLHFGL" />
       <item value="push For Birthday" />
@@ -50,12 +51,11 @@
       <item value="Invoice" />
       <item value="implements" />
       <item value="requestVolumeThreshold" />
-      <item value="Single Candidate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
