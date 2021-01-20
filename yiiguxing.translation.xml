@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cabinet" />
       <item value="Indicator" />
       <item value="d" />
       <item value="JCQLHFGL" />
@@ -50,12 +51,11 @@
       <item value="Methods that create and return a &quot;wrapped&quot; ExecutorService, that * disables reconfiguration by making implementation-specific methods * inaccessible" />
       <item value="Invoice" />
       <item value="implements" />
-      <item value="requestVolumeThreshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609402892062" />
+    <option name="lastTrimTime" value="1611103442499" />
   </component>
 </application>
