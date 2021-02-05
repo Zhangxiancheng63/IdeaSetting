@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last Index Of Supplementary" />
+      <item value="MIN SUPPLEMENTARY CODE POINT" />
+      <item value="SUPPLEMENTARY" />
       <item value="Enumeration" />
       <item value="Malformed" />
       <item value="public" />
@@ -48,14 +51,11 @@
       <item value="sequentially" />
       <item value="subsequent tasks" />
       <item value="prior" />
-      <item value="unbounded queue" />
-      <item value="to reduce footprint" />
-      <item value="Sets this Future to the result of its computation * unless it has been cancelled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
