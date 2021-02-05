@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="public" />
       <item value="图" />
       <item value="图则" />
       <item value="Cabinet" />
@@ -50,12 +51,11 @@
       <item value="Sets this Future to the result of its computation * unless it has been cancelled" />
       <item value="closure-like" />
       <item value="state" />
-      <item value="Methods that create and return a &quot;wrapped&quot; ExecutorService, that * disables reconfiguration by making implementation-specific methods * inaccessible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611103442499" />
+    <option name="lastTrimTime" value="1612486198489" />
   </component>
 </application>
