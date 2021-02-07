@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="populate Defaults" />
+      <item value="necessitating" />
+      <item value="emulates" />
+      <item value="ultimately" />
+      <item value="Subclasses of {@code LinkageError} indicate that a class has some dependency on another class; however, the latter class has incompatibly changed after the compilation of the former class" />
       <item value="Indicates whether or not the current parse position is inside an XML comment." />
       <item value="deriving" />
       <item value="alphabetical" />
@@ -46,16 +51,11 @@
       <item value="mechanics" />
       <item value="It will not be used as a sync queue node * until transferred" />
       <item value="successor" />
-      <item value="The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block" />
-      <item value="Craig, Landin, and * Hagersten" />
-      <item value="whatsoever" />
-      <item value="operating * off" />
-      <item value="Unlike the otherwise equivalent * {@code newFixedThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
