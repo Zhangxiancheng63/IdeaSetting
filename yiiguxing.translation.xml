@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rebalanced" />
       <item value="acknowledge" />
       <item value="Negative" />
       <item value="Consistent creation of early reference within full singleton lock" />
@@ -50,12 +51,11 @@
       <item value="isolation" />
       <item value="Join Relay" />
       <item value="Relay" />
-      <item value="new" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
