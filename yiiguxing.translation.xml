@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="analysis" />
       <item value="comment" />
       <item value="rebalanced" />
       <item value="acknowledge" />
@@ -50,12 +51,11 @@
       <item value="assembly" />
       <item value="judge" />
       <item value="isolation" />
-      <item value="Join Relay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614909074304" />
+    <option name="lastTrimTime" value="1615345080775" />
   </component>
 </application>
