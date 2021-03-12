@@ -1,5 +1,37 @@
 <application>
   <component name="TipsStore">
-    <option name="firstStartUp" value="false" />
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Desktop/activity" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Downloads/Compressed" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Downloads/Compressed/office" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/biz-cms" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/ebb-root" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/hzyw-light" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/springcloud-root" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/vncurlgetter" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/zjbdos-cloud-oss" firstStartUp="false" />
+    <entry projectName="E:/projects/OnJava8-Examples-master" firstStartUp="false" />
+    <entry projectName="E:/projects/biz-drm" firstStartUp="false" />
+    <entry projectName="E:/projects/direct-free" firstStartUp="false" />
+    <entry projectName="E:/projects/ecs" firstStartUp="false" />
+    <entry projectName="E:/projects/hkvision" firstStartUp="false" />
+    <entry projectName="E:/projects/hzyw-ext" firstStartUp="false" />
+    <entry projectName="E:/projects/hzyw-oa" firstStartUp="false" />
+    <entry projectName="E:/projects/hzyw-oa-light" firstStartUp="false" />
+    <entry projectName="E:/projects/hzyw-wb" firstStartUp="false" />
+    <entry projectName="E:/projects/hzyw-wb-light" firstStartUp="false" />
+    <entry projectName="E:/projects/ods-root" firstStartUp="false" />
+    <entry projectName="E:/projects/spring-kafka" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-auth" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-bpm" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-dms" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-form" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-framework-sample" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-gateway" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-meeting" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-office-edit" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-push" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-uims" firstStartUp="false" />
+    <entry projectName="E:/projects/zjbdos-cloud-vacate" firstStartUp="false" />
   </component>
 </application>
