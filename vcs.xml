@@ -351,11 +351,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/emqx/emqx-extension-java-sdk.git" />
+          <option name="url" value="https://code.data4truth.com/bjqt/bjqt-uims-light" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://47.95.229.159:8888/xiaoqiang/cloud_oxygen_plat_boot" />
+          <option name="url" value="https://code.data4truth.com/bjqt/bjqt-org-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/file" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-medical-care" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
