@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Vertical" />
       <item value="BizErrorType.INDEX_EMPTY BizErrorType.AREA_EMPTY" />
       <item value="s" />
       <item value="减法" />
@@ -53,7 +54,6 @@
       <item value="decorate Bean Definition If Required" />
       <item value="String Tokenizer" />
       <item value="populate" />
-      <item value="populate Defaults" />
     </histories>
     <option name="languageScores">
       <map>
