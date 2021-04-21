@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="divide" />
+      <item value="multiply" />
       <item value="scene" />
       <item value="Vertical" />
       <item value="BizErrorType.INDEX_EMPTY BizErrorType.AREA_EMPTY" />
@@ -15,7 +17,6 @@
       <item value="plus" />
       <item value="flat" />
       <item value="Trend" />
-      <item value="divide" />
       <item value="服务&#10;" />
       <item value="&#10;服务&#10;" />
       <item value="上门服务&#10;" />
@@ -53,7 +54,6 @@
       <item value="is Candidate Element" />
       <item value="ROLE INFRASTRUCTURE" />
       <item value="decorate Bean Definition If Required" />
-      <item value="String Tokenizer" />
     </histories>
     <option name="languageScores">
       <map>
