@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="k" />
       <item value="divide" />
       <item value="multiply" />
       <item value="scene" />
@@ -53,7 +54,6 @@
       <item value="Marker" />
       <item value="is Candidate Element" />
       <item value="ROLE INFRASTRUCTURE" />
-      <item value="decorate Bean Definition If Required" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618797720797" />
+    <option name="lastTrimTime" value="1619576386881" />
   </component>
 </application>
