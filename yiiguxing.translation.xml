@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="HONOR" />
       <item value="Fill" />
       <item value="k" />
       <item value="divide" />
@@ -53,12 +54,11 @@
       <item value="Array Deque" />
       <item value="Deque" />
       <item value="Marker" />
-      <item value="is Candidate Element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620265415783" />
+    <option name="lastTrimTime" value="1623138913079" />
   </component>
 </application>
