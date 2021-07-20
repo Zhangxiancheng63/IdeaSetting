@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="WELFARE" />
       <item value="除以" />
       <item value="献血信息" />
       <item value="Fill Youth Social Help Controller" />
@@ -53,12 +54,11 @@
       <item value="pension" />
       <item value="未按期" />
       <item value="未按期&#10;" />
-      <item value="wei" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625809582232" />
+    <option name="lastTrimTime" value="1626745058829" />
   </component>
 </application>
