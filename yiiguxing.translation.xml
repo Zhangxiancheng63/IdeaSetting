@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unless" />
       <item value="Peony" />
       <item value="twiddling" />
       <item value="canonical" />
@@ -54,12 +55,11 @@
       <item value="Trend" />
       <item value="服务&#10;" />
       <item value="&#10;服务&#10;" />
-      <item value="上门服务&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627975362056" />
+    <option name="lastTrimTime" value="1628644940989" />
   </component>
 </application>
