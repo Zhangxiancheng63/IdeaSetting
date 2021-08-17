@@ -418,6 +418,10 @@
           <option name="url" value="https://code.data4truth.com/hzqt/hzqt-uims-light" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhupf/swagger2word" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project" />
