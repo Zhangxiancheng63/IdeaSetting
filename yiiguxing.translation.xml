@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="政治面貌&#10;" />
+      <item value="学历" />
       <item value="纬度" />
       <item value="经度&#10;" />
       <item value="联系人" />
@@ -54,8 +56,6 @@
       <item value="Enterprises And Institutions" />
       <item value="activity Screen" />
       <item value="HONOR" />
-      <item value="Fill" />
-      <item value="k" />
     </histories>
     <option name="languageScores">
       <map>
