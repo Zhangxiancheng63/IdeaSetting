@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="联系人" />
+      <item value="联系人&#10;" />
+      <item value="登记名称" />
+      <item value="登记" />
+      <item value="统一社会信用代码&#10;" />
+      <item value="统一社会信用代码" />
       <item value="industry and commerce" />
       <item value="工商" />
       <item value="工商&#10;" />
@@ -50,12 +56,6 @@
       <item value="k" />
       <item value="divide" />
       <item value="multiply" />
-      <item value="scene" />
-      <item value="Vertical" />
-      <item value="BizErrorType.INDEX_EMPTY BizErrorType.AREA_EMPTY" />
-      <item value="s" />
-      <item value="减法" />
-      <item value="减" />
     </histories>
     <option name="languageScores">
       <map>
