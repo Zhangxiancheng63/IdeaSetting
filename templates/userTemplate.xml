@@ -120,6 +120,21 @@
   </template>
   <template name="page" value="@ApiModelProperty(&quot;页码&quot;)&#10;private Integer pageNum;&#10;@ApiModelProperty(&quot;每页记录数&quot;)&#10;private Integer pageSize;" description="快速生成分页参数" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="lq" value="lambdaQuery()&#10;        .eq(BaseEntity::getDeleted, 0)" description="快速生成通用查询样板代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="od" value="orderByDesc(BaseEntity::getCreateTime)&#10;" description="快速生成排序样板代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pa" value="page(new Page&lt;&gt;(dto.getPageNum(), dto.getPageSize()));" description="快速生成分页查询结尾样板代码" toReformat="false" toShortenFQNames="true">
+    <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
