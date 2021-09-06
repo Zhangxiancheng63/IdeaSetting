@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mtube" />
+      <item value="mtube&#10;" />
       <item value="Integral" />
       <item value="Pledge" />
       <item value="Consumption" />
@@ -54,13 +56,11 @@
       <item value="计生协" />
       <item value="外部接口" />
       <item value="红十字" />
-      <item value="Cardinality Helper" />
-      <item value="intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630309004322" />
+    <option name="lastTrimTime" value="1630895619298" />
   </component>
 </application>
