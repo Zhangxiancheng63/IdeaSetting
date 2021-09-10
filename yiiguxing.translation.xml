@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Queue" />
+      <item value="Deque" />
       <item value="Deduct" />
       <item value="mtube" />
       <item value="mtube&#10;" />
@@ -54,20 +56,18 @@
       <item value="WELFARE" />
       <item value="献血信息" />
       <item value="Fill Youth Social Help Controller" />
-      <item value="计生协" />
-      <item value="外部接口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
