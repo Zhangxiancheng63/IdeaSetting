@@ -482,6 +482,10 @@
           <option name="url" value="https://code.data4truth.com/tlqt/mos-order" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud-biz/order-plus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project" />
