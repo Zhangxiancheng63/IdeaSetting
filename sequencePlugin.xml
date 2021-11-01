@@ -1,6 +1,5 @@
 <application>
   <component name="sequenceParams">
-    <option name="callDepth" value="1" />
     <option name="noPrivateMethods" value="true" />
     <option name="noConstructors" value="true" />
   </component>
