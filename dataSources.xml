@@ -14,5 +14,12 @@
       <jdbc-url>jdbc:mysql://36.133.91.226:3306/coupon_plus</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="养老测试" uuid="b1575087-4be1-43b8-bff6-fa3315026fd1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://36.134.8.223:3306/mos_order</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
