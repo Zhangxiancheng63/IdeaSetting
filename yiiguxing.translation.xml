@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pension" />
       <item value="Pack" />
       <item value="pension" />
       <item value="incre" />
@@ -55,7 +56,6 @@
       <item value="离婚" />
       <item value="device" />
       <item value="devoce" />
-      <item value="Marry" />
     </histories>
     <option name="languageScores">
       <map>
