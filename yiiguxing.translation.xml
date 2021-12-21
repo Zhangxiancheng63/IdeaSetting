@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="760" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="预计" />
+      <item value="预计采购时间" />
+      <item value="预算金额&#10;" />
+      <item value="generalization" />
+      <item value="概括" />
+      <item value="意向公开" />
+      <item value="意向公开&#10;" />
       <item value="用途&#10;" />
       <item value="specification" />
       <item value="规格&#10;" />
@@ -49,18 +56,11 @@
       <item value="政治面貌&#10;" />
       <item value="学历" />
       <item value="纬度" />
-      <item value="经度&#10;" />
-      <item value="联系人" />
-      <item value="联系人&#10;" />
-      <item value="登记名称" />
-      <item value="登记" />
-      <item value="统一社会信用代码&#10;" />
-      <item value="统一社会信用代码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="364" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
