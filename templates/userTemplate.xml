@@ -138,4 +138,15 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="psc" value="private String code;" description="快速生成code属性" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="amp" value="@ApiModelProperty(value = &quot;$cusor$&quot;)" description="快速生成swagger注解" toReformat="false" toShortenFQNames="true">
+    <variable name="cusor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
