@@ -590,6 +590,10 @@
           <option name="url" value="https://code.data4truth.com/zhyl/zhyl-device-docking" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project" />
