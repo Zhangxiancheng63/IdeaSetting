@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="maturity" />
       <item value="whether" />
       <item value="inventory" />
       <item value="Untreated" />
@@ -55,12 +56,11 @@
       <item value="HIGHEST PRECEDENCE" />
       <item value="Share Discount" />
       <item value="divide" />
-      <item value="Purchase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
