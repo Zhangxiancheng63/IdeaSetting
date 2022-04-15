@@ -123,7 +123,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="lq" value="lambdaQuery()&#10;        .eq(BaseEntity::getDeleted, 0)" description="快速生成通用查询样板代码" toReformat="false" toShortenFQNames="true">
+  <template name="lq" value="lambdaQuery()&#10;        .eq(BaseEntity::getDeleted, SysConsts.DELETED_NO)" description="快速生成通用查询样板代码" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
