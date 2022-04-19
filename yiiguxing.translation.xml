@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="542" />
-    <option name="newTranslationDialogX" value="760" />
-    <option name="newTranslationDialogY" value="448" />
+    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogX" value="935" />
+    <option name="newTranslationDialogY" value="267" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="situation" />
+      <item value="情况" />
+      <item value="理情况" />
+      <item value="身体自理情况" />
+      <item value="身体资历情况" />
+      <item value="身体资历" />
+      <item value="身体" />
+      <item value="living status" />
       <item value="后门" />
       <item value="主门" />
       <item value="马桶旁" />
@@ -48,19 +56,11 @@
       <item value="负责人&#10;" />
       <item value="规格型号" />
       <item value="规格" />
-      <item value="资产报废" />
-      <item value="预计" />
-      <item value="预计采购时间" />
-      <item value="预算金额&#10;" />
-      <item value="generalization" />
-      <item value="概括" />
-      <item value="意向公开" />
-      <item value="意向公开&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
