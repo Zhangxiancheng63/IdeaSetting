@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="919" />
     <option name="newTranslationDialogY" value="180" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I am free" />
+      <item value="I am " />
+      <item value="I " />
+      <item value="I" />
+      <item value="我" />
+      <item value="我空了" />
       <item value="floor" />
       <item value="楼" />
       <item value="楼&#10;" />
@@ -50,17 +56,11 @@
       <item value="次卧" />
       <item value="卧" />
       <item value="主卧" />
-      <item value="卫生间" />
-      <item value="BATHROOM" />
-      <item value="厨房&#10;" />
-      <item value="DIRT KICHIEN" />
-      <item value="compatible" />
-      <item value="maturity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="411" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649923407334" />
+    <option name="lastTrimTime" value="1650356435503" />
   </component>
 </application>
