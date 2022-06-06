@@ -171,4 +171,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="del" value="                .set(BaseEntity::getDeleted, SysConsts.DELETED_YES)&#10;                .set(BaseEntity::getModifyby, WorkUtil.getUserId())&#10;                .set(BaseEntity::getModifyName, WorkUtil.getUserName())&#10;                .set(BaseEntity::getModifyTime, System.currentTimeMillis())&#10;                .update();" description="逻辑删除快速生成" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
