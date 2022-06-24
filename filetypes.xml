@@ -8,8 +8,8 @@
       <mapping pattern="信息刊物服务.wsdl" type="Native" />
       <mapping ext="json" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application-**.properties" type="Properties" />
+      <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application.properties" type="Properties" />
       <mapping pattern="bootstrap.properties" type="Properties" />
       <mapping pattern="bootstrap-**.y**ml" type="YAML" />
