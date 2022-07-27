@@ -77,5 +77,12 @@
       <jdbc-url>jdbc:mysql://36.139.32.199:3306/ajsh_major</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="临平正式环境" uuid="7fb82fee-d9bc-4a65-8b0a-2e4480ceb5fe">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.20.14:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
