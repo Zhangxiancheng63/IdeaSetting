@@ -5,6 +5,7 @@
         <option name="disabled">
           <set>
             <option value="JAPANESE" />
+            <option value="CHINESE" />
           </set>
         </option>
       </State>
