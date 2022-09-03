@@ -113,4 +113,67 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pit" value="private Integer type;" description="private Integer type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="page" value="@ApiModelProperty(&quot;页码&quot;)&#10;private Integer pageNum;&#10;@ApiModelProperty(&quot;每页记录数&quot;)&#10;private Integer pageSize;" description="快速生成分页参数" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="lq" value="lambdaQuery()&#10;        .eq(BaseEntity::getDeleted, SysConsts.DELETED_NO)" description="快速生成通用查询样板代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="od" value="orderByDesc(BaseEntity::getCreateTime)&#10;" description="快速生成排序样板代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pa" value="page(new Page&lt;&gt;(dto.getPageNum(), dto.getPageSize()));" description="快速生成分页查询结尾样板代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psc" value="private String code;" description="快速生成code属性" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="amp" value="@ApiModelProperty(value = &quot;$cusor$&quot;)" description="快速生成swagger注解" toReformat="false" toShortenFQNames="true">
+    <variable name="cusor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="u" value="//used" description="used mark" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tat" value="TenantUtil.assignTenantId(dto);" description="快速生成租户赋值模板代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="td" value="// TODO " description="快速新增TODO" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fm" value="// FIXME " description="FIXME" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="del" value="                .set(BaseEntity::getDeleted, SysConsts.DELETED_YES)&#10;                .set(BaseEntity::getModifyby, WorkUtil.getUserId())&#10;                .set(BaseEntity::getModifyName, WorkUtil.getUserName())&#10;                .set(BaseEntity::getModifyTime, System.currentTimeMillis())&#10;                .update();" description="逻辑删除快速生成" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>

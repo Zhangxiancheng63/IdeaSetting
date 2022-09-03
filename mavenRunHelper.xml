@@ -23,7 +23,7 @@
               <option name="commandLine" value="verify" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="install" />
+              <option name="commandLine" value="install -U" />
             </Goal>
             <Goal>
               <option name="commandLine" value="deploy" />
@@ -38,29 +38,5 @@
         </option>
       </Goals>
     </option>
-    <option name="pluginAwareGoals">
-      <Goals>
-        <option name="goals">
-          <list>
-            <Goal>
-              <option name="commandLine" value="jetty:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat5:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat6:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat7:run" />
-            </Goal>
-          </list>
-        </option>
-      </Goals>
-    </option>
-    <option name="version" value="1" />
   </component>
 </application>

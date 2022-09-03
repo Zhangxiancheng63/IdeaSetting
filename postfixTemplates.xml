@@ -1,0 +1,10 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="isnull@userDefined" key=".isnull" provider="builtin.java" language-level="8" topmost="true">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="if (DataUtil.isNullOrEmpty($EXPR$)) {&#10;    &#10;}" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+    </template>
+  </component>
+</application>
