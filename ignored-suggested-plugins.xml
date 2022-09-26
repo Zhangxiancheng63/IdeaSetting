@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.guice" />
         <option value="com.intellij.bigdatatools" />
+        <option value="dev.eltonsandre.intellij.spring.assistant.plugin" />
       </list>
     </option>
   </component>
