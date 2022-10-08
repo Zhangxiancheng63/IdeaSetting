@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="299" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assess" />
       <item value="Returns the maximal range lying between this range and otherRange, if such a range exists. The resulting range may be empty if the two ranges are adjacent but non-overlapping. For example, the gap of [1..5] and (7..10) is (5..7]. The resulting range may be empty; for example, the gap between [1..5) [5..7) yields the empty range [5..5). The gap exists if and only if the two ranges are either disconnected or immediately adjacent (any intersection must be an empty range). The gap operation is commutative." />
       <item value="canonical" />
       <item value="consecutive" />
@@ -25,7 +26,6 @@
       <item value="月环比" />
       <item value="能力" />
       <item value="fall" />
-      <item value="Assess" />
       <item value="Census" />
       <item value="统计报表" />
       <item value="报表" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
