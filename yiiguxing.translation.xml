@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="335" />
-    <option name="newTranslationDialogWidth" value="502" />
+    <option name="newTranslationDialogWidth" value="500" />
     <option name="newTranslationDialogX" value="656" />
     <option name="newTranslationDialogY" value="299" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="差值" />
+      <item value="差值&#10;" />
       <item value="factory" />
       <item value="与保姆同住" />
       <item value="女儿" />
@@ -55,8 +57,6 @@
       <item value="Sink" />
       <item value="introspect" />
       <item value="contact" />
-      <item value="latitude" />
-      <item value="经纬度" />
     </histories>
     <option name="languageScores">
       <map>
