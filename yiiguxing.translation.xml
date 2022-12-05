@@ -89,4 +89,7 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670225134350" />
+  </component>
 </application>
